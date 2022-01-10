@@ -6,7 +6,20 @@
   Instead of imagining that our main task is to instruct a computer what to do,
   let us concentrate rather on explaining to human beings what we want a
   computer to do.
+  + Cambiemos nuestra actitud tradicional ante la construcción de programas: En
+    lugar de imaginar que nuestra principal tarea es instruir a un ordenador
+    sobre lo que debe hacer, concentrémonos más bien en explicar a los seres
+    humanos lo que queremos que haga un ordenador.
 
 ** [[https://en.wikipedia.org/wiki/Georg_Gottlob][Georg Gottlob]]
 
 + Computer Science is the continuation of Logic by other means.
+  + La ciencia de la computación es la continuación de la lógica por otros
+    medios.
+
+** [[https://bit.ly/2JntZz3][Marvin Minsky]]
+
++ Computer languages of the future will be more concerned with goals and less
+  with procedures specified by the programmer.
+  + Los lenguajes informáticos del futuro estarán más preocupados por los
+    objetivos y menos por los procedimientos especificados por el programador.
