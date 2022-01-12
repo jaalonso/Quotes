@@ -2,6 +2,15 @@
 
 ** [[https://en.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]]
 
++ Computer programming is an art, because it applies accumulated knowledge to
+  the world, because it requires skill and ingenuity, and especially because it
+  produces objects of beauty. A programmer who subconsciously views himself as
+  an artist will enjoy what he does and will do it better.
+  + La programación de computadoras es un arte, porque aplica el conocimiento
+    acumulado al mundo, porque requiere habilidad e ingenio, y especialmente
+    porque produce objetos de belleza. Un programador que subconscientemente se ve
+    a sí mismo como un artista disfrutará lo que hace y lo hará mejor.
+
 + Let us change our traditional attitude to the construction of programs:
   Instead of imagining that our main task is to instruct a computer what to do,
   let us concentrate rather on explaining to human beings what we want a
@@ -16,6 +25,13 @@
 + Computer Science is the continuation of Logic by other means.
   + La ciencia de la computación es la continuación de la lógica por otros
     medios.
+
+** [[https://en.wikipedia.org/wiki/Hal_Abelson][Harold Abelson]]
+
++ Programs must be written for people to read, and only incidentally for
+  machines to execute.
+  + Los programas deben estar escritos para que la gente los lea y, sólo de
+    manera incidental, para que las máquinas los ejecuten.
 
 ** [[https://bit.ly/2JntZz3][Marvin Minsky]]
 
