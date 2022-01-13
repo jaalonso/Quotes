@@ -20,6 +20,14 @@
     sobre lo que debe hacer, concentrémonos más bien en explicar a los seres
     humanos lo que queremos que haga un ordenador.
 
+** [[https://en.wikipedia.org/wiki/Edsger_W._Dijkstra][Edsger W. Dijkstra]]
+
+
++ Progress is possible only if we train ourselves to think about programs
+  without thinking of them as pieces of executable code.
+  + El progreso solo es posible si nos entrenamos para pensar en programas sin
+    pensar en ellos como piezas de código ejecutable
+
 ** [[https://en.wikipedia.org/wiki/Georg_Gottlob][Georg Gottlob]]
 
 + Computer Science is the continuation of Logic by other means.
