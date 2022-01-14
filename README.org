@@ -1,5 +1,11 @@
 #+TITLE: Quotes on Mathematics and Computer Science
 
+** [[https://es.wikipedia.org/wiki/Alan_Turing][Alan Turing]]
+
+
++ Codes are a puzzle. A game, just like any other game.
+  + Los programas son rompecabezas. Un juego, como cualquier otro juego.
+
 ** [[https://en.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]]
 
 + Computer programming is an art, because it applies accumulated knowledge to
