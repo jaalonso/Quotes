@@ -2,7 +2,6 @@
 
 ** [[https://es.wikipedia.org/wiki/Alan_Turing][Alan Turing]]
 
-
 + Codes are a puzzle. A game, just like any other game.
   + Los programas son rompecabezas. Un juego, como cualquier otro juego.
 
@@ -53,3 +52,14 @@
   with procedures specified by the programmer.
   + Los lenguajes informáticos del futuro estarán más preocupados por los
     objetivos y menos por los procedimientos especificados por el programador.
+
+** [[https://es.wikipedia.org/wiki/Richard_Courant][Richard Courant]] y [[https://en.wikipedia.org/wiki/Herbert_Robbins][Herbert Robbins]]
+
++ Mathematics as an expression of the human mind reflects the active will, the
+  contemplative reason, and the desire for aesthetic perfection. Its basic
+  elements are logic and intuition, analysis and construction, generality and
+  individuality.
+  + Las matemáticas como expresión de la mente humana reflejan la voluntad
+    activa, la razón contemplativa y el deseo de perfección estética. Sus
+    elementos básicos son la lógica y la intuición, el análisis y la
+    construcción, la generalidad y la individualidad.
