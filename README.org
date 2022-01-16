@@ -27,7 +27,6 @@
 
 ** [[https://en.wikipedia.org/wiki/Edsger_W._Dijkstra][Edsger W. Dijkstra]]
 
-
 + Progress is possible only if we train ourselves to think about programs
   without thinking of them as pieces of executable code.
   + El progreso solo es posible si nos entrenamos para pensar en programas sin
@@ -45,6 +44,14 @@
   machines to execute.
   + Los programas deben estar escritos para que la gente los lea y, sólo de
     manera incidental, para que las máquinas los ejecuten.
+
+** [[https://en.wikipedia.org/wiki/Martin_Fowler_(software_engineer)][Martin Fowler]]
+
++ Any fool can write code that a computer can understand. Good programmers
+  write code that humans can understand.
+  + Cualquier tonto puede escribir un código que un ordenador puede
+    entender. Los buenos programadores escriben código que los humanos pueden
+    entender.
 
 ** [[https://bit.ly/2JntZz3][Marvin Minsky]]
 
