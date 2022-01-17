@@ -70,3 +70,11 @@
     activa, la razón contemplativa y el deseo de perfección estética. Sus
     elementos básicos son la lógica y la intuición, el análisis y la
     construcción, la generalidad y la individualidad.
+
+** [[https://en.wikipedia.org/wiki/Tony_Hoare][Tony Hoare]]
++ There are two ways of constructing a software design: One way is to make it so
+  simple that there are obviously no deficiencies and the other way is to make
+  it so complicated that there are no obvious deficiencies.
+  + Hay dos maneras de diseñar un software. Una forma es hacerlo tan simple que
+    obviamente no haya deficiencias. Y la otra forma es hacerlo tan complicado que
+    no haya deficiencias obvias.
