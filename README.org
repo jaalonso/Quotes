@@ -25,6 +25,11 @@
     sobre lo que debe hacer, concentrémonos más bien en explicar a los seres
     humanos lo que queremos que haga un ordenador.
 
++ Programming is the art of telling another human being what one wants the
+  computer to do.
+  + La programación es el arte de decirle a otro ser humano lo que uno quiere
+    que haga el ordenador.
+
 ** [[https://en.wikipedia.org/wiki/Edsger_W._Dijkstra][Edsger W. Dijkstra]]
 
 + Progress is possible only if we train ourselves to think about programs
@@ -37,6 +42,11 @@
 + Computer Science is the continuation of Logic by other means.
   + La ciencia de la computación es la continuación de la lógica por otros
     medios.
+
+** [[https://es.wikipedia.org/wiki/Grace_Murray_Hopper][Grace Hopper]]
+
++ The most dangerous phrase of the language is "It has always been done this way".
+  + La frase más dañina del lenguaje es: "Siempre se ha hecho así".
 
 ** [[https://en.wikipedia.org/wiki/Hal_Abelson][Harold Abelson]]
 
