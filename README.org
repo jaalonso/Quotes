@@ -32,6 +32,11 @@
 
 ** [[https://en.wikipedia.org/wiki/Edsger_W._Dijkstra][Edsger W. Dijkstra]]
 
++ Computer Science is no more about computers than astronomy is about
+  telescopes.
+  + La informática no tiene más que ver con los ordenadores que la astronomía
+    con los telescopios.
+
 + Progress is possible only if we train ourselves to think about programs
   without thinking of them as pieces of executable code.
   + El progreso solo es posible si nos entrenamos para pensar en programas sin
