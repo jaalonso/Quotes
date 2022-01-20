@@ -5,6 +5,15 @@
 + Codes are a puzzle. A game, just like any other game.
   + Los programas son rompecabezas. Un juego, como cualquier otro juego.
 
++ In order that the man who checks may not have too difficult a task, the
+  programmer should make a number of definite assertions which can be checked
+  individually, and from which the correctness of the whole program easily
+  follows.
+  + Para que el hombre que hace la comprobación no tenga una tarea demasiado
+    difícil, el programador debe hacer una serie de afirmaciones definidas que
+    puedan ser comprobadas individualmente, y de las que se desprenda fácilmente
+    la corrección de todo el programa.
+
 ** [[https://en.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]]
 
 + Computer programming is an art, because it applies accumulated knowledge to
