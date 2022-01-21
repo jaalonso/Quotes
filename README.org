@@ -76,6 +76,16 @@
   + Los programas deben estar escritos para que la gente los lea y, sólo de
     manera incidental, para que las máquinas los ejecuten.
 
+** [[https://en.wikipedia.org/wiki/Kurt_G%C3%B6del][Kurt Gödel]]
+
++ The development of mathematics towards greater precision has led, as is well
+  known, to the formalization of large tracts of it, so that one can prove any
+  theorem using nothing but a few mechanical rules.
+  + El desarrollo de las matemáticas hacia una mayor precisión ha llevado, como
+    es bien sabido, a la formalización de grandes partes de las mismas, de modo
+    que se puede probar cualquier teorema usando nada más que unas pocas reglas
+    mecánicas.
+
 ** [[https://en.wikipedia.org/wiki/Martin_Fowler_(software_engineer)][Martin Fowler]]
 
 + Any fool can write code that a computer can understand. Good programmers
