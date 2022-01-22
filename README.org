@@ -112,6 +112,13 @@
     elementos básicos son la lógica y la intuición, el análisis y la
     construcción, la generalidad y la individualidad.
 
+** [[https://en.wikipedia.org/wiki/Robert_Kowalski][Robert Kowalski]]
+
++ Predicate logic is a useful and practical, high-level, non-deterministic
+  programming language with sound theoretical foundations.
+  + La lógica de predicados es un lenguaje de programación no determinista de
+    alto nivel, útil y práctico, con una sólida base teórica.
+
 ** [[https://en.wikipedia.org/wiki/Tony_Hoare][Tony Hoare]]
 + There are two ways of constructing a software design: One way is to make it so
   simple that there are obviously no deficiencies and the other way is to make
