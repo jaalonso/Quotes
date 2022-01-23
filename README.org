@@ -1,5 +1,12 @@
 #+TITLE: Quotes on Mathematics and Computer Science
 
+** [[https://en.wikipedia.org/wiki/Alan_Perlis][Alan J. Perlis]]
+
++ A language that doesn't affect the way you think about programming is not
+  worth knowing.
+  + Un lenguaje que no afecta a la forma de pensar en la programación no vale la
+    pena conocerlo.
+
 ** [[https://en.wikipedia.org/wiki/Alan_Turing][Alan Turing]]
 
 + Codes are a puzzle. A game, just like any other game.
