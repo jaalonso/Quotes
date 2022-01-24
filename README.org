@@ -21,6 +21,11 @@
     puedan ser comprobadas individualmente, y de las que se desprenda fácilmente
     la corrección de todo el programa.
 
+** [[https://en.wikipedia.org/wiki/Brian_Kernighan][Brian Kernighan]]
+
++ Controlling complexity is the essence of computer programming.
+  + El control de la complejidad es la esencia de la programación informática.
+
 ** [[https://en.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]]
 
 + Computer programming is an art, because it applies accumulated knowledge to
