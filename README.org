@@ -58,6 +58,11 @@
   + La informática no tiene más que ver con los ordenadores que la astronomía
     con los telescopios.
 
++ Program testing can be used to show the presence of bugs, but never to show
+  their absence!
+  + Las pruebas de programa se pueden utilizar para mostrar la presencia de
+    errores, ¡pero nunca para mostrar su ausencia!
+
 + Progress is possible only if we train ourselves to think about programs
   without thinking of them as pieces of executable code.
   + El progreso solo es posible si nos entrenamos para pensar en programas sin
