@@ -21,6 +21,11 @@
     puedan ser comprobadas individualmente, y de las que se desprenda fácilmente
     la corrección de todo el programa.
 
++ Programming is a skill best acquired by practice and example rather than from
+  books.
+  + La programación es una habilidad que se adquiere mejor con la práctica y el
+    ejemplo que con libros.
+
 ** [[https://en.wikipedia.org/wiki/Brian_Kernighan][Brian Kernighan]]
 
 + Controlling complexity is the essence of computer programming.
@@ -50,6 +55,13 @@
   computer to do.
   + La programación es el arte de decirle a otro ser humano lo que uno quiere
     que haga el ordenador.
+
++ The psychological profiling [of a programmer] is mostly the ability to shift
+  levels of abstraction, from low level to high level. To see something in the
+  small and to see something in the large.
+  + El perfil psicológico [de un programador] es principalmente la capacidad de
+    cambiar los niveles de abstracción, de un nivel bajo a un nivel alto. Ver
+    algo en lo pequeño y ver algo en lo grande.
 
 ** [[https://en.wikipedia.org/wiki/Edsger_W._Dijkstra][Edsger W. Dijkstra]]
 
@@ -102,6 +114,13 @@
     es bien sabido, a la formalización de grandes partes de las mismas, de modo
     que se puede probar cualquier teorema usando nada más que unas pocas reglas
     mecánicas.
+
+** [[https://en.wikipedia.org/wiki/Linus_Torvalds][Linus Torvalds]]
+
++ Most of the good programmers do programming not because they expect to get
+  paid or get adulation by the public, but because it is fun to program.
+  + La mayoría de los buenos programadores no programan porque esperan que les
+    paguen o que el público los adore, sino porque es divertido programar.
 
 ** [[https://en.wikipedia.org/wiki/Martin_Fowler_(software_engineer)][Martin Fowler]]
 
