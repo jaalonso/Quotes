@@ -26,6 +26,13 @@
   + La programación es una habilidad que se adquiere mejor con la práctica y el
     ejemplo que con libros.
 
+** [[https://en.wikipedia.org/wiki/Bertrand_Meyer][Bertrand Meyer]]
+
++ Correctness is clearly the prime quality. If a system does not do what it is
+  supposed to do, then everything else about it matters little.
+  + La corrección es claramente la principal cualidad. Si un sistema no hace lo
+    que se supone que debe hacer, todo lo demás importa poco.
+
 ** [[https://en.wikipedia.org/wiki/Brian_Kernighan][Brian Kernighan]]
 
 + Controlling complexity is the essence of computer programming.
