@@ -1,5 +1,12 @@
 #+TITLE: Quotes on Mathematics and Computer Science
 
+** [[https://bit.ly/3Hg30lo][Aaron Swartz]]
+
++ Be curious. Read widely. Try new things. I think a lot of what people call
+  intelligence boils down to curiosity.
+  + Ser curioso. Leer ampliamente . Probar cosas nuevas. Creo que mucho de lo
+    que la gente llama inteligencia se reduce a la curiosidad.
+
 ** [[https://en.wikipedia.org/wiki/Alan_Perlis][Alan J. Perlis]]
 
 + A language that doesn't affect the way you think about programming is not
@@ -84,6 +91,14 @@
   telescopes.
   + La informática no tiene más que ver con los ordenadores que la astronomía
     con los telescopios.
+
++ How do we convince people that in programming simplicity and clarity —in
+  short: what mathematicians call "elegance"— are not a dispensable luxury, but
+  a crucial matter that decides between success and failure?
+  + ¿Cómo convencer a la gente de que en la programación la sencillez y la
+    claridad —en definitiva, lo que los matemáticos llaman "elegancia"— no son
+    un lujo prescindible, sino un asunto crucial que decide entre el éxito y el
+    fracaso?
 
 + Program testing can be used to show the presence of bugs, but never to show
   their absence!
