@@ -38,6 +38,14 @@
 + Controlling complexity is the essence of computer programming.
   + El control de la complejidad es la esencia de la programación informática.
 
+** [[https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss][Carl Friedrich Gauss]]
+
+
++ It is not knowledge, but the act of learning, not possession but the act of
+  getting there, which grants the greatest enjoyment.
+  + No es el conocimiento, sino el acto de aprendizaje, y no la posesión, sino
+    el acto de llegar allí, que concede el mayor disfrute.
+
 ** [[https://en.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]]
 
 + Computer programming is an art, because it applies accumulated knowledge to
