@@ -116,6 +116,15 @@
   + La ciencia de la computación es la continuación de la lógica por otros
     medios.
 
+** [[https://en.wikipedia.org/wiki/George_Boole][George Boole]]
+
++ No matter how correct a mathematical theorem may appear to be, one ought
+  never to be satisfied that there was not something imperfect about it until
+  it also gives the impression of being beautiful.
+  + Por muy correcto que parezca un teorema matemático, nunca hay que
+    conformarse con que no haya algo imperfecto en él hasta que también dé la
+    impresión de ser bello.
+
 ** [[https://en.wikipedia.org/wiki/Gottlob_Frege][Gottlob Frege]]
 
 + Every good mathematician is at least half a philosopher, and every good
