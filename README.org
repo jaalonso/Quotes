@@ -167,6 +167,14 @@
   + La vida de un matemático está dominada por una insaciable curiosidad, un
     deseo que raya en la pasión por resolver los problemas que estudia.
 
+** [[https://en.wikipedia.org/wiki/Karl_Weierstrass][Karl Weierstrass]]
+
++ A mathematician who is not also something of a poet will never be a perfect
+  mathematician.
+  + Un matemático que no sea también algo de poeta nunca será un matemático
+    perfecto.
+
+
 ** [[https://en.wikipedia.org/wiki/Kurt_G%C3%B6del][Kurt Gödel]]
 
 + The development of mathematics towards greater precision has led, as is well
@@ -176,6 +184,10 @@
     es bien sabido, a la formalización de grandes partes de las mismas, de modo
     que se puede probar cualquier teorema usando nada más que unas pocas reglas
     mecánicas.
+
+** [[https://en.wikipedia.org/wiki/L._Peter_Deutsch][L. Peter Deutsch]]
+
++ To iterate is human, to recurse divine.
 
 ** [[https://en.wikipedia.org/wiki/Linus_Torvalds][Linus Torvalds]]
 
@@ -192,12 +204,45 @@
     entender. Los buenos programadores escriben código que los humanos pueden
     entender.
 
-** [[https://bit.ly/2JntZz3][Marvin Minsky]]
+** [[https://wikipedia.org/wiki/Marvin_Minsky][Marvin Minsky]]
 
 + Computer languages of the future will be more concerned with goals and less
   with procedures specified by the programmer.
   + Los lenguajes informáticos del futuro estarán más preocupados por los
     objetivos y menos por los procedimientos especificados por el programador.
+
++ You don't understand anything until you learn it more than one way.
+  + No entiendes nada hasta que lo aprendes de más de una manera.
+
+** [[https://wikipedia.org/wiki/Max_Planck][Max Planck]]
+
++ A new scientific truth does not triumph by convincing its opponents and
+  making them see the light, but rather because its opponents eventually die,
+  and a new generation grows up that is familiar with it.
+  + Una nueva verdad científica no triunfa convenciendo a sus oponentes y
+    haciéndoles ver la luz, sino más bien porque sus oponentes finalmente
+    mueren, y crece una nueva generación que está familiarizada con ella.
+
+** [[https://wikipedia.org/wiki/Niels_Bohr][Niels Bohr]]
+
++ An expert is a person who has made all the mistakes that can be made in a very
+  narrow field.
+  + Un experto es una persona que ha cometido todos los errores que se pueden
+    cometer en un determinado campo.
+
+** [[https://en.wikipedia.org/wiki/Niklaus_Wirth][Niklaus wirth]]
+
++ In our profession, precision and perfection are not a dispensable luxury, but
+  a simple necessity.
+  + En nuestra profesión, la precisión y la perfección no son un lujo
+    prescindible, sino una simple necesidad.
+
+** [[https://wikipedia.org/wiki/Oliver_Heaviside][Oliver Heaviside]]
+
++ Mathematics is an experimental science, and definitions do not come first, but
+  later on.
+  + Las matemáticas son una ciencia experimental, y las definiciones no son lo
+    primero, sino lo último.
 
 ** [[https://es.wikipedia.org/wiki/Richard_Courant][Richard Courant]] y [[https://en.wikipedia.org/wiki/Herbert_Robbins][Herbert Robbins]]
 
