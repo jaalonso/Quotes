@@ -125,6 +125,26 @@
     conformarse con que no haya algo imperfecto en él hasta que también dé la
     impresión de ser bello.
 
+** [[https://en.wikipedia.org/wiki/G._H._Hardy][G. H. Hardy]]
+
++ A mathematician, like a painter or poet, is a maker of patterns. If his
+  patterns are more permanent than theirs, it is because they are made with
+  ideas.
+  + Un matemático, como un pintor o un poeta, es un creador de
+    patrones. [...]. Los patrones del matemático, como el del pintor o el del
+    poeta, deben ser hermosos; las ideas, como los colores o las palabras, deben
+    encajar juntas de manera armoniosa. La belleza es la primera prueba: no hay
+    lugar permanente en el mundo para las matemáticas feas.
+
++ The mathematician's patterns, like the painter's or the poet's must be
+  beautiful; the ideas, like the colors or the words must fit together in a
+  harmonious way. Beauty is the first test: there is no permanent place in this
+  world for ugly mathematics.
+  + Los patrones del matemático, como los del pintor o el poeta deben ser
+    hermosos; las ideas, como los colores o las palabras deben encajar de manera
+    armoniosa. La belleza es la primera prueba: no hay lugar permanente en este
+    mundo para las matemáticas feas.
+
 ** [[https://en.wikipedia.org/wiki/Gottlob_Frege][Gottlob Frege]]
 
 + Every good mathematician is at least half a philosopher, and every good
@@ -167,13 +187,24 @@
   + La vida de un matemático está dominada por una insaciable curiosidad, un
     deseo que raya en la pasión por resolver los problemas que estudia.
 
+** [[https://wikipedia.org/wiki/John_McCarthy][John McCarthy]]
+
++ It is reasonable to hope that the relationship between computation and
+  mathematical logic will be as fruitful in the next century as that between
+  analysis and physics in the last. The development of this relationship demands
+  a concern for both applications and for mathematical elegance.
+  + Es razonable esperar que la relación entre la computación y la lógica
+    matemática sea tan fructífera en el próximo siglo como la que existe entre
+    el análisis y la física en el último. El desarrollo de esta relación exige
+    una preocupación tanto por las aplicaciones como por la elegancia
+    matemática.
+
 ** [[https://en.wikipedia.org/wiki/Karl_Weierstrass][Karl Weierstrass]]
 
 + A mathematician who is not also something of a poet will never be a perfect
   mathematician.
   + Un matemático que no sea también algo de poeta nunca será un matemático
     perfecto.
-
 
 ** [[https://en.wikipedia.org/wiki/Kurt_G%C3%B6del][Kurt Gödel]]
 
@@ -243,6 +274,18 @@
   later on.
   + Las matemáticas son una ciencia experimental, y las definiciones no son lo
     primero, sino lo último.
+
+** [[https://es.wikipedia.org/wiki/Paul_Dirac][Paul Dirac]]
+
++ A theory with mathematical beauty is more likely to be correct than an ugly
+  one that fits some experimental data.
+  + Una teoría con belleza matemática es más probable que sea correcta que una fea
+    que se ajuste a algunos datos experimentales.
+
+** [[https://en.wikipedia.org/wiki/Paul_Hudak][Paul Hudak]]
+
++ Programming, in its broadest sense, is problem solving.
+  + Programación, en sentido amplio, es resolución de problemas.
 
 ** [[https://es.wikipedia.org/wiki/Richard_Courant][Richard Courant]] y [[https://en.wikipedia.org/wiki/Herbert_Robbins][Herbert Robbins]]
 
