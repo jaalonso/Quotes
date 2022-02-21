@@ -14,6 +14,16 @@
   + Un lenguaje que no afecta a la forma de pensar en la programación no vale la
     pena conocerlo.
 
++ A programming language is low level when its programs require attention to the
+  irrelevant.
+  + Un lenguaje de programación es de bajo nivel cuando sus programas requieren
+    atención a lo irrelevante.
+
++ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses
+  remove it.
+  + Los tontos ignoran la complejidad. Los pragmáticos lo sufren. Algunos pueden
+    evitarlo. Los genios lo quitan.
+
 ** [[https://en.wikipedia.org/wiki/Alan_Turing][Alan Turing]]
 
 + Codes are a puzzle. A game, just like any other game.
@@ -45,13 +55,44 @@
 + Controlling complexity is the essence of computer programming.
   + El control de la complejidad es la esencia de la programación informática.
 
-** [[https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss][Carl Friedrich Gauss]]
++ Programming is learned by writing programs.
 
+** [[https://en.wikipedia.org/wiki/Buckminster_Fuller][Buckminster Fuller]]
+
++ When I am working on a problem, I never think about beauty. I think only of
+  how to solve the problem. But when I have finished, if the solution is not
+  beautiful, I know it is wrong.
+  + Cuando estoy trabajando en un problema, nunca pienso en la belleza. Sólo
+    pienso en cómo resolver el problema. Pero cuando he terminado, si la
+    solución no es bella, sé que está mal.
+
+** [[https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss][Carl Friedrich Gauss]]
 
 + It is not knowledge, but the act of learning, not possession but the act of
   getting there, which grants the greatest enjoyment.
   + No es el conocimiento, sino el acto de aprendizaje, y no la posesión, sino
     el acto de llegar allí, que concede el mayor disfrute.
+
+** [[https://en.wikipedia.org/wiki/Carl_Gustav_Jakob_Jacobi][Carl Gustav Jacob Jacobi]]
+
++ "One should always generalize."
+  + Siempre se debe generalizar.
+
+** [[https://en.wikipedia.org/wiki/David_Gelernter][David Gelernter]]
+
++ Beauty is more important in computing than anywhere else in technology because
+  software is so complicated. Beauty is the ultimate defense against complexity.
+
+** [[https://en.wikipedia.org/wiki/David_Hilbert][David Hilbert]]
+
++ It is an error to believe that rigor in a proof is an enemy of simplicity. On
+  the contrary we find it confirmed by numerous examples that the rigorous
+  method is, at the same time, the simpler and the more easily comprehended.
+  The very effort for rigor forces us to find the simpler methods of proof.
+  + Es un error creer que el rigor es enemigo de la sencillez. Al contrario,
+    encontramos confirmado por numerosos ejemplos que el método riguroso es al
+    mismo tiempo el más simple y el más fácil de comprender. El propio esfuerzo
+    por el rigor nos obliga a descubrir métodos de prueba más sencillos.
 
 ** [[https://en.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]]
 
@@ -77,6 +118,11 @@
   computer to do.
   + La programación es el arte de decirle a otro ser humano lo que uno quiere
     que haga el ordenador.
+
++ The best theory is inspired by practice. The best practice is inspired by
+  theory.
+  + La mejor teoría está inspirada en la práctica. La mejor práctica está
+    inspirada en la teoría.
 
 + The psychological profiling [of a programmer] is mostly the ability to shift
   levels of abstraction, from low level to high level. To see something in the
@@ -109,6 +155,13 @@
   without thinking of them as pieces of executable code.
   + El progreso solo es posible si nos entrenamos para pensar en programas sin
     pensar en ellos como piezas de código ejecutable
+
++ Simplicity is a great virtue but it requires hard work to achieve it and
+  education to appreciate it. And to make matters worse: complexity sells
+  better.
+  + La simplicidad es una gran virtud pero requiere mucho trabajo para
+    alcanzarla y educación para apreciarla. Y para empeorar las cosas: la
+    complejidad vende mejor.
 
 ** [[https://en.wikipedia.org/wiki/Georg_Gottlob][Georg Gottlob]]
 
@@ -298,6 +351,17 @@
     elementos básicos son la lógica y la intuición, el análisis y la
     construcción, la generalidad y la individualidad.
 
+** [[https://en.wikipedia.org/wiki/Richard_Hamming][Richard Hamming]]
+
++ The purpose of computing is insight, not numbers.
+  + El propósito de la computación es la comprensión, no los números.
+
+** [[https://en.wikipedia.org/wiki/Robert_Harper_(computer_scientist)][Robert Harper]]
+
++ Programming is an explanatory activity, a form of expression intended to
+  convey an idea that is both comprehensible by other people and executable by a
+  computer.
+
 ** [[https://en.wikipedia.org/wiki/Robert_Kowalski][Robert Kowalski]]
 
 + Predicate logic is a useful and practical, high-level, non-deterministic
@@ -305,7 +369,30 @@
   + La lógica de predicados es un lenguaje de programación no determinista de
     alto nivel, útil y práctico, con una sólida base teórica.
 
+** [[https://en.wikipedia.org/wiki/Stanislaw_Ulam][Stanislaw Ulam]]
+
++ The aesthetic side of mathematics has been of overwhelming importance
+  throughout its growth. It is not so much whether a theorem is useful that
+  matters, but how elegant it is.
+  + El lado estético de las matemáticas ha sido de una importancia abrumadora a
+    lo largo de su desarrollo. Lo que importa no es si un teorema es útil, sino lo
+    elegante que es.
+
 ** [[https://en.wikipedia.org/wiki/Tony_Hoare][Tony Hoare]]
+
++ In the development of our understanding of complex phenomena, the most
+  powerful tool available to the human intellect :is abstraction. Abstraction
+  arises from a recognition of similarities between certain objects, situations,
+  or processes in the real world, and the decision to concentrate on these
+  similarities, and to ignore for the time being the differences.
+  + En el desarrollo de la comprensión de los fenómenos complejos, la herramienta
+    más poderosa de que dispone el intelecto humano es la abstracción. La
+    abstracción surge del reconocimiento de las similitudes entre ciertos objetos,
+    situaciones o procesos en el mundo real y de la decisión de concentrarse en
+    estas similitudes e ignorar, por el momento, sus diferencias.
+
+
+
 + There are two ways of constructing a software design: One way is to make it so
   simple that there are obviously no deficiencies and the other way is to make
   it so complicated that there are no obvious deficiencies.
