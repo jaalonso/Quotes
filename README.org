@@ -4,59 +4,40 @@
 
 + Be curious. Read widely. Try new things. I think a lot of what people call
   intelligence boils down to curiosity.
-  + Ser curioso. Leer ampliamente . Probar cosas nuevas. Creo que mucho de lo
-    que la gente llama inteligencia se reduce a la curiosidad.
 
 ** [[https://en.wikipedia.org/wiki/Alan_Perlis][Alan J. Perlis]]
 
 + A language that doesn't affect the way you think about programming is not
   worth knowing.
-  + Un lenguaje que no afecta a la forma de pensar en la programación no vale la
-    pena conocerlo.
 
 + A programming language is low level when its programs require attention to the
   irrelevant.
-  + Un lenguaje de programación es de bajo nivel cuando sus programas requieren
-    atención a lo irrelevante.
 
 + Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses
   remove it.
-  + Los tontos ignoran la complejidad. Los pragmáticos lo sufren. Algunos pueden
-    evitarlo. Los genios lo quitan.
 
 + It is easier to write an incorrect program than understand a correct one.
-  + Es más fácil escribir un programa incorrecto que entender uno correcto.
 
 ** [[https://en.wikipedia.org/wiki/Alan_Turing][Alan Turing]]
 
 + Codes are a puzzle. A game, just like any other game.
-  + Los programas son rompecabezas. Un juego, como cualquier otro juego.
 
 + In order that the man who checks may not have too difficult a task, the
   programmer should make a number of definite assertions which can be checked
   individually, and from which the correctness of the whole program easily
   follows.
-  + Para que el hombre que hace la comprobación no tenga una tarea demasiado
-    difícil, el programador debe hacer una serie de afirmaciones definidas que
-    puedan ser comprobadas individualmente, y de las que se desprenda fácilmente
-    la corrección de todo el programa.
 
 + Programming is a skill best acquired by practice and example rather than from
   books.
-  + La programación es una habilidad que se adquiere mejor con la práctica y el
-    ejemplo que con libros.
 
 ** [[https://en.wikipedia.org/wiki/Bertrand_Meyer][Bertrand Meyer]]
 
 + Correctness is clearly the prime quality. If a system does not do what it is
   supposed to do, then everything else about it matters little.
-  + La corrección es claramente la principal cualidad. Si un sistema no hace lo
-    que se supone que debe hacer, todo lo demás importa poco.
 
 ** [[https://en.wikipedia.org/wiki/Brian_Kernighan][Brian Kernighan]]
 
 + Controlling complexity is the essence of computer programming.
-  + El control de la complejidad es la esencia de la programación informática.
 
 + Programming is learned by writing programs.
 
@@ -65,21 +46,15 @@
 + When I am working on a problem, I never think about beauty. I think only of
   how to solve the problem. But when I have finished, if the solution is not
   beautiful, I know it is wrong.
-  + Cuando estoy trabajando en un problema, nunca pienso en la belleza. Sólo
-    pienso en cómo resolver el problema. Pero cuando he terminado, si la
-    solución no es bella, sé que está mal.
 
 ** [[https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss][Carl Friedrich Gauss]]
 
 + It is not knowledge, but the act of learning, not possession but the act of
   getting there, which grants the greatest enjoyment.
-  + No es el conocimiento, sino el acto de aprendizaje, y no la posesión, sino
-    el acto de llegar allí, que concede el mayor disfrute.
 
 ** [[https://en.wikipedia.org/wiki/Carl_Gustav_Jakob_Jacobi][Carl Gustav Jacob Jacobi]]
 
 + "One should always generalize."
-  + Siempre se debe generalizar.
 
 ** [[https://en.wikipedia.org/wiki/David_Gelernter][David Gelernter]]
 
@@ -92,10 +67,6 @@
   the contrary we find it confirmed by numerous examples that the rigorous
   method is, at the same time, the simpler and the more easily comprehended.
   The very effort for rigor forces us to find the simpler methods of proof.
-  + Es un error creer que el rigor es enemigo de la sencillez. Al contrario,
-    encontramos confirmado por numerosos ejemplos que el método riguroso es al
-    mismo tiempo el más simple y el más fácil de comprender. El propio esfuerzo
-    por el rigor nos obliga a descubrir métodos de prueba más sencillos.
 
 + The art of doing mathematics is finding that special case that contains all
   the germs of generality.
@@ -106,178 +77,112 @@
   the world, because it requires skill and ingenuity, and especially because it
   produces objects of beauty. A programmer who subconsciously views himself as
   an artist will enjoy what he does and will do it better.
-  + La programación de computadoras es un arte, porque aplica el conocimiento
-    acumulado al mundo, porque requiere habilidad e ingenio, y especialmente
-    porque produce objetos de belleza. Un programador que subconscientemente se ve
-    a sí mismo como un artista disfrutará lo que hace y lo hará mejor.
 
 + If you find that you're spending almost all your time on theory, start turning
   some attention to practical things; it will improve your theories. If you find
   that you're spending almost all your time on practice, start turning some
   attention to theoretical things; it will improve your practice.
-  + Si descubre que dedica casi todo su tiempo a la teoría, comience a prestar
-    atención a las cosas prácticas; mejorará tus teorías. Si descubre que dedica
-    casi todo su tiempo a la práctica, comience a prestar atención a las cosas
-    teóricas; mejorará tu práctica.
 
 + Let us change our traditional attitude to the construction of programs:
   Instead of imagining that our main task is to instruct a computer what to do,
   let us concentrate rather on explaining to human beings what we want a
   computer to do.
-  + Cambiemos nuestra actitud tradicional ante la construcción de programas: En
-    lugar de imaginar que nuestra principal tarea es instruir a un ordenador
-    sobre lo que debe hacer, concentrémonos más bien en explicar a los seres
-    humanos lo que queremos que haga un ordenador.
 
 + Programming is the art of telling another human being what one wants the
   computer to do.
-  + La programación es el arte de decirle a otro ser humano lo que uno quiere
-    que haga el ordenador.
 
 + Science is what we understand well enough to explain to a computer. Art is
   everything else we do.
-  + La ciencia es lo que entendemos lo suficientemente bien como para explicarle
-    a una computadora. El arte es todo lo demás que hacemos.
 
 + The best theory is inspired by practice. The best practice is inspired by
   theory.
-  + La mejor teoría está inspirada en la práctica. La mejor práctica está
-    inspirada en la teoría.
 
 + The psychological profiling [of a programmer] is mostly the ability to shift
   levels of abstraction, from low level to high level. To see something in the
   small and to see something in the large.
-  + El perfil psicológico [de un programador] es principalmente la capacidad de
-    cambiar los niveles de abstracción, de un nivel bajo a un nivel alto. Ver
-    algo en lo pequeño y ver algo en lo grande.
 
 ** [[https://en.wikipedia.org/wiki/Edsger_W._Dijkstra][Edsger W. Dijkstra]]
 
 + Besides a mathematical inclination, an exceptionally good mastery of one's
   native tongue is the most vital asset of a competent programmer.
-  + Además de una inclinación matemática, un dominio excepcionalmente bueno de
-    la lengua materna es el activo más vital de un programador competente.
 
 + Computer Science is no more about computers than astronomy is about
   telescopes.
-  + La informática no tiene más que ver con los ordenadores que la astronomía
-    con los telescopios.
 
 + How do we convince people that in programming simplicity and clarity —in
   short: what mathematicians call "elegance"— are not a dispensable luxury, but
   a crucial matter that decides between success and failure?
-  + ¿Cómo convencer a la gente de que en la programación la sencillez y la
-    claridad —en definitiva, lo que los matemáticos llaman "elegancia"— no son
-    un lujo prescindible, sino un asunto crucial que decide entre el éxito y el
-    fracaso?
 
 + Program testing can be used to show the presence of bugs, but never to show
   their absence!
-  + Las pruebas de programa se pueden utilizar para mostrar la presencia de
-    errores, ¡pero nunca para mostrar su ausencia!
 
 + Progress is possible only if we train ourselves to think about programs
   without thinking of them as pieces of executable code.
-  + El progreso solo es posible si nos entrenamos para pensar en programas sin
-    pensar en ellos como piezas de código ejecutable
 
 + Simplicity is a great virtue but it requires hard work to achieve it and
   education to appreciate it. And to make matters worse: complexity sells
   better.
-  + La simplicidad es una gran virtud pero requiere mucho trabajo para
-    alcanzarla y educación para apreciarla. Y para empeorar las cosas: la
-    complejidad vende mejor.
 
 ** [[https://en.wikipedia.org/wiki/Georg_Cantor][Georg Cantor]]
 
 + In mathematics, the art of asking questions is more valuable than solving
   problems.
-  + En matemáticas, el arte de hacer preguntas es más valioso que la resolución
-    de problemas.
 
 ** [[https://en.wikipedia.org/wiki/Georg_Gottlob][Georg Gottlob]]
 
 + Computer Science is the continuation of Logic by other means.
-  + La ciencia de la computación es la continuación de la lógica por otros
-    medios.
 
 ** [[https://en.wikipedia.org/wiki/George_Boole][George Boole]]
 
 + No matter how correct a mathematical theorem may appear to be, one ought
   never to be satisfied that there was not something imperfect about it until
   it also gives the impression of being beautiful.
-  + Por muy correcto que parezca un teorema matemático, nunca hay que
-    conformarse con que no haya algo imperfecto en él hasta que también dé la
-    impresión de ser bello.
 
 ** [[https://en.wikipedia.org/wiki/George_P%C3%B3lya][George Pólya]]
 
 + It is better to solve one problem five different ways, than to solve five
   problems one way.
-  + Es mejor resolver un problema de cinco maneras diferentes, que resolver
-    cinco problemas de una sola manera.
 
 ** [[https://en.wikipedia.org/wiki/G._H._Hardy][G. H. Hardy]]
 
 + A mathematician, like a painter or poet, is a maker of patterns. If his
   patterns are more permanent than theirs, it is because they are made with
   ideas.
-  + Un matemático, como un pintor o un poeta, es un creador de
-    patrones. [...]. Los patrones del matemático, como el del pintor o el del
-    poeta, deben ser hermosos; las ideas, como los colores o las palabras, deben
-    encajar juntas de manera armoniosa. La belleza es la primera prueba: no hay
-    lugar permanente en el mundo para las matemáticas feas.
 
 + The mathematician's patterns, like the painter's or the poet's must be
   beautiful; the ideas, like the colors or the words must fit together in a
   harmonious way. Beauty is the first test: there is no permanent place in this
   world for ugly mathematics.
-  + Los patrones del matemático, como los del pintor o el poeta deben ser
-    hermosos; las ideas, como los colores o las palabras deben encajar de manera
-    armoniosa. La belleza es la primera prueba: no hay lugar permanente en este
-    mundo para las matemáticas feas.
 
 ** [[https://en.wikipedia.org/wiki/Gottlob_Frege][Gottlob Frege]]
 
 + Every good mathematician is at least half a philosopher, and every good
   philosopher is at least half a mathematician.
-  + Todo buen matemático es al menos medio filósofo, y todo buen filósofo es al
-    menos medio matemático.
 
 ** [[https://es.wikipedia.org/wiki/Grace_Murray_Hopper][Grace Hopper]]
 
 + The most dangerous phrase of the language is "It has always been done this way".
-  + La frase más dañina del lenguaje es: "Siempre se ha hecho así".
 
 ** [[https://en.wikipedia.org/wiki/Hal_Abelson][Harold Abelson]]
 
 + Programs must be written for people to read, and only incidentally for
   machines to execute.
-  + Los programas deben estar escritos para que la gente los lea y, sólo de
-    manera incidental, para que las máquinas los ejecuten.
 
 ** [[https://en.wikipedia.org/wiki/Herbert_A._Simon][Herbert A. Simon]]
 
 + In the computer field, the moment of truth is a running program; all else is
   prophecy.
-  + En el campo de la computación, el momento de la verdad es la ejecución de un
-    programa; todo lo demás es profecía.
 
 ** [[https://bit.ly/2vVVv3w][James J Sylvester]]
 
 + It is the constant aim of the mathematician to reduce all his expressions to
   the lowest terms, to retrench every superfluous word and phrase, and to
   condense the Maximum of meaning into the Minimum of language.
-  + El objetivo constante del matemático es reducir todas sus expresiones a sus
-    términos más bajos, reducir cada palabra y frase superflua y condensar el
-    Máximo de significado en el Mínimo de lenguaje.
 
 ** [[https://en.wikipedia.org/wiki/Jean_Dieudonn%C3%A9][Jean Dieudonné]]
 
 + The life of a mathematician is dominated by an insatiable curiosity, a desire
   bordering on passion to solve the problems he is studying.
-  + La vida de un matemático está dominada por una insaciable curiosidad, un
-    deseo que raya en la pasión por resolver los problemas que estudia.
 
 ** [[https://wikipedia.org/wiki/John_McCarthy][John McCarthy]]
 
@@ -285,28 +190,17 @@
   mathematical logic will be as fruitful in the next century as that between
   analysis and physics in the last. The development of this relationship demands
   a concern for both applications and for mathematical elegance.
-  + Es razonable esperar que la relación entre la computación y la lógica
-    matemática sea tan fructífera en el próximo siglo como la que existe entre
-    el análisis y la física en el último. El desarrollo de esta relación exige
-    una preocupación tanto por las aplicaciones como por la elegancia
-    matemática.
 
 ** [[https://en.wikipedia.org/wiki/Karl_Weierstrass][Karl Weierstrass]]
 
 + A mathematician who is not also something of a poet will never be a perfect
   mathematician.
-  + Un matemático que no sea también algo de poeta nunca será un matemático
-    perfecto.
 
 ** [[https://en.wikipedia.org/wiki/Kurt_G%C3%B6del][Kurt Gödel]]
 
 + The development of mathematics towards greater precision has led, as is well
   known, to the formalization of large tracts of it, so that one can prove any
   theorem using nothing but a few mechanical rules.
-  + El desarrollo de las matemáticas hacia una mayor precisión ha llevado, como
-    es bien sabido, a la formalización de grandes partes de las mismas, de modo
-    que se puede probar cualquier teorema usando nada más que unas pocas reglas
-    mecánicas.
 
 ** [[https://en.wikipedia.org/wiki/L._Peter_Deutsch][L. Peter Deutsch]]
 
@@ -316,77 +210,54 @@
 
 + Most of the good programmers do programming not because they expect to get
   paid or get adulation by the public, but because it is fun to program.
-  + La mayoría de los buenos programadores no programan porque esperan que les
-    paguen o que el público los adore, sino porque es divertido programar.
 
 ** [[https://en.wikipedia.org/wiki/Martin_Fowler_(software_engineer)][Martin Fowler]]
 
 + Any fool can write code that a computer can understand. Good programmers
   write code that humans can understand.
-  + Cualquier tonto puede escribir un código que un ordenador puede
-    entender. Los buenos programadores escriben código que los humanos pueden
-    entender.
 
 ** [[https://wikipedia.org/wiki/Marvin_Minsky][Marvin Minsky]]
 
 + Computer languages of the future will be more concerned with goals and less
   with procedures specified by the programmer.
-  + Los lenguajes informáticos del futuro estarán más preocupados por los
-    objetivos y menos por los procedimientos especificados por el programador.
 
 + You don't understand anything until you learn it more than one way.
-  + No entiendes nada hasta que lo aprendes de más de una manera.
 
 ** [[https://wikipedia.org/wiki/Max_Planck][Max Planck]]
 
 + A new scientific truth does not triumph by convincing its opponents and
   making them see the light, but rather because its opponents eventually die,
   and a new generation grows up that is familiar with it.
-  + Una nueva verdad científica no triunfa convenciendo a sus oponentes y
-    haciéndoles ver la luz, sino más bien porque sus oponentes finalmente
-    mueren, y crece una nueva generación que está familiarizada con ella.
 
 ** [[https://wikipedia.org/wiki/Niels_Bohr][Niels Bohr]]
 
 + An expert is a person who has made all the mistakes that can be made in a very
   narrow field.
-  + Un experto es una persona que ha cometido todos los errores que se pueden
-    cometer en un determinado campo.
 
 ** [[https://en.wikipedia.org/wiki/Niklaus_Wirth][Niklaus wirth]]
 
 + In our profession, precision and perfection are not a dispensable luxury, but
   a simple necessity.
-  + En nuestra profesión, la precisión y la perfección no son un lujo
-    prescindible, sino una simple necesidad.
 
 ** [[https://wikipedia.org/wiki/Oliver_Heaviside][Oliver Heaviside]]
 
 + Mathematics is an experimental science, and definitions do not come first, but
   later on.
-  + Las matemáticas son una ciencia experimental, y las definiciones no son lo
-    primero, sino lo último.
 
 ** [[https://es.wikipedia.org/wiki/Paul_Dirac][Paul Dirac]]
 
 + A theory with mathematical beauty is more likely to be correct than an ugly
   one that fits some experimental data.
-  + Una teoría con belleza matemática es más probable que sea correcta que una fea
-    que se ajuste a algunos datos experimentales.
 
 ** [[https://en.wikipedia.org/wiki/Paul_Halmos][Paul Halmos]]
 
 + A good stack of examples, as large as possible, is indispensable for a
   thorough understanding of any concept, and when I want to learn something
   new, I make it my first job to build one.
-  + Una buena pila de ejemplos, tan grande como sea posible, es indispensable
-    para una comprensión profunda de cualquier concepto, y cuando quiero
-    aprender algo nuevo, mi primer trabajo es construir uno.
 
 ** [[https://en.wikipedia.org/wiki/Paul_Hudak][Paul Hudak]]
 
 + Programming, in its broadest sense, is problem solving.
-  + Programación, en sentido amplio, es resolución de problemas.
 
 ** [[https://es.wikipedia.org/wiki/Richard_Courant][Richard Courant]] y [[https://en.wikipedia.org/wiki/Herbert_Robbins][Herbert Robbins]]
 
@@ -394,15 +265,10 @@
   contemplative reason, and the desire for aesthetic perfection. Its basic
   elements are logic and intuition, analysis and construction, generality and
   individuality.
-  + Las matemáticas como expresión de la mente humana reflejan la voluntad
-    activa, la razón contemplativa y el deseo de perfección estética. Sus
-    elementos básicos son la lógica y la intuición, el análisis y la
-    construcción, la generalidad y la individualidad.
 
 ** [[https://en.wikipedia.org/wiki/Richard_Hamming][Richard Hamming]]
 
 + The purpose of computing is insight, not numbers.
-  + El propósito de la computación es la comprensión, no los números.
 
 ** [[https://en.wikipedia.org/wiki/Robert_Harper_(computer_scientist)][Robert Harper]]
 
@@ -414,17 +280,12 @@
 
 + Predicate logic is a useful and practical, high-level, non-deterministic
   programming language with sound theoretical foundations.
-  + La lógica de predicados es un lenguaje de programación no determinista de
-    alto nivel, útil y práctico, con una sólida base teórica.
 
 ** [[https://en.wikipedia.org/wiki/Stanislaw_Ulam][Stanislaw Ulam]]
 
 + The aesthetic side of mathematics has been of overwhelming importance
   throughout its growth. It is not so much whether a theorem is useful that
   matters, but how elegant it is.
-  + El lado estético de las matemáticas ha sido de una importancia abrumadora a
-    lo largo de su desarrollo. Lo que importa no es si un teorema es útil, sino lo
-    elegante que es.
 
 ** [[https://en.wikipedia.org/wiki/Tony_Hoare][Tony Hoare]]
 
@@ -433,17 +294,7 @@
   arises from a recognition of similarities between certain objects, situations,
   or processes in the real world, and the decision to concentrate on these
   similarities, and to ignore for the time being the differences.
-  + En el desarrollo de la comprensión de los fenómenos complejos, la herramienta
-    más poderosa de que dispone el intelecto humano es la abstracción. La
-    abstracción surge del reconocimiento de las similitudes entre ciertos objetos,
-    situaciones o procesos en el mundo real y de la decisión de concentrarse en
-    estas similitudes e ignorar, por el momento, sus diferencias.
-
-
 
 + There are two ways of constructing a software design: One way is to make it so
   simple that there are obviously no deficiencies and the other way is to make
   it so complicated that there are no obvious deficiencies.
-  + Hay dos maneras de diseñar un software. Una forma es hacerlo tan simple que
-    obviamente no haya deficiencias. Y la otra forma es hacerlo tan complicado que
-    no haya deficiencias obvias.
