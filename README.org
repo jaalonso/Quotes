@@ -101,6 +101,10 @@
   levels of abstraction, from low level to high level. To see something in the
   small and to see something in the large.
 
++ The real problem is that programmers have spent far too much time worrying
+  about efficiency in the wrong places and at the wrong times; premature
+  optimization is the root of all evil (or at least most of it) in programming.
+
 ** [[https://en.wikipedia.org/wiki/Edsger_W._Dijkstra][Edsger W. Dijkstra]]
 
 + Besides a mathematical inclination, an exceptionally good mastery of one's
@@ -113,6 +117,9 @@
   short: what mathematicians call "elegance"— are not a dispensable luxury, but
   a crucial matter that decides between success and failure?
 
++ In computing, elegance is not a dispensable luxury but a quality that decides
+  between success and failure
+
 + Program testing can be used to show the presence of bugs, but never to show
   their absence!
 
@@ -123,10 +130,23 @@
   education to appreciate it. And to make matters worse: complexity sells
   better.
 
+** [[https://en.wikipedia.org/wiki/Enrico_Bombieri][Enrico Bombieri]]
+
++ When things get too complicated, it sometimes makes sense to stop and wonder:
+  Have I asked the right question?
+
+** [[https://en.wikipedia.org/wiki/Eric_Temple_Bell][Eric Temple Bell]]
+
++ Abstractness, sometimes hurled as a reproach at mathematics, is its chief
+  glory and its surest title to practical usefulness. It is also the source of
+  such beauty as may spring from mathematics.
+
 ** [[https://en.wikipedia.org/wiki/Georg_Cantor][Georg Cantor]]
 
 + In mathematics, the art of asking questions is more valuable than solving
   problems.
+
++ The essence of mathematics is its freedom.
 
 ** [[https://en.wikipedia.org/wiki/Georg_Gottlob][Georg Gottlob]]
 
@@ -142,6 +162,12 @@
 
 + It is better to solve one problem five different ways, than to solve five
   problems one way.
+
++ Mathematics has two faces: it is the rigorous science of Euclid, but it is
+  also something else. Mathematics presented in the Euclidean way appears as a
+  systematic, deductive science; but mathematics in the making appears as an
+  experimental, inductive science. Both aspects are as old as the science of
+  mathematics itself.
 
 ** [[https://en.wikipedia.org/wiki/G._H._Hardy][G. H. Hardy]]
 
@@ -205,6 +231,11 @@
 ** [[https://en.wikipedia.org/wiki/L._Peter_Deutsch][L. Peter Deutsch]]
 
 + To iterate is human, to recurse divine.
+
+** [[https://en.wikipedia.org/wiki/Leonhard_Euler][Leonhard Euler]]
+
++ Nothing takes place in the world whose meaning is not that of some maximum or
+  minimum.
 
 ** [[https://en.wikipedia.org/wiki/Linus_Torvalds][Linus Torvalds]]
 
