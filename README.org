@@ -169,6 +169,19 @@
   experimental, inductive science. Both aspects are as old as the science of
   mathematics itself.
 
++ Solving problems is a practical skill like, let us say, swimming. We acquire
+  any practical skill by imitation and practice. Trying to swim, you imitate
+  what other people do with their hands and feet to keep their heads above
+  water, and, finally, you learn to swim by practicing swimming. Trying to
+  solve problems, you have to observe and to imitate what other people do when
+  solving problems, and, finally, you learn to do problems by doing them.
+
++ To teach effectively a teacher must develop a feeling for his subject; he
+  cannot make his students sense its vitality if he does not sense it
+  himself. He cannot share his enthusiasm when he has no enthusiasm to
+  share. How he makes his point may be as important as the point he makes; he
+  must personally feel it to be important.
+
 ** [[https://en.wikipedia.org/wiki/G._H._Hardy][G. H. Hardy]]
 
 + A mathematician, like a painter or poet, is a maker of patterns. If his
@@ -179,6 +192,11 @@
   beautiful; the ideas, like the colors or the words must fit together in a
   harmonious way. Beauty is the first test: there is no permanent place in this
   world for ugly mathematics.
+
+** [[https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz][Gottfried Wilhelm Leibniz]]
+
++ Nothing is more important than to see the sources of invention which are, in
+  my opinion more interesting than the inventions themselves.
 
 ** [[https://en.wikipedia.org/wiki/Gottlob_Frege][Gottlob Frege]]
 
@@ -194,10 +212,31 @@
 + Programs must be written for people to read, and only incidentally for
   machines to execute.
 
+** [[https://en.wikipedia.org/wiki/Henri_Lebesgue][Henri Lebesgue]]
+
++ The only teaching that a professor can give, in my opinion, is that of
+  thinking in front of his students.
+
+** [[https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9][Henri Poincaré]]
+
++ The mathematician does not study pure mathematics because it is useful; he
+  studies it because he delights in it and he delights in it because it is
+  beautiful.
+
 ** [[https://en.wikipedia.org/wiki/Herbert_A._Simon][Herbert A. Simon]]
 
 + In the computer field, the moment of truth is a running program; all else is
   prophecy.
+
+** [[https://en.wikipedia.org/wiki/Hermann_Weyl][Hermann Weyl]]
+
++ My work always tried to unite the true with the beautiful; but when I had to
+  choose one or the other, I usually chose the beautiful.
+
+** [[https://en.wikipedia.org/wiki/Isaac_Newton][Isaac Newton]]
+
++ Truth is ever to be found in the simplicity, and not in the multiplicity and
+  confusion of things.
 
 ** [[https://bit.ly/2vVVv3w][James J Sylvester]]
 
@@ -217,6 +256,11 @@
   analysis and physics in the last. The development of this relationship demands
   a concern for both applications and for mathematical elegance.
 
+** [[https://en.wikipedia.org/wiki/John_von_Neumann][John von Neumann]].
+
++ If people do not believe that mathematics is simple, it is only because they
+  do not realize how complicated life is.
+
 ** [[https://en.wikipedia.org/wiki/Karl_Weierstrass][Karl Weierstrass]]
 
 + A mathematician who is not also something of a poet will never be a perfect
@@ -231,6 +275,11 @@
 ** [[https://en.wikipedia.org/wiki/L._Peter_Deutsch][L. Peter Deutsch]]
 
 + To iterate is human, to recurse divine.
+
+** [[https://en.wikipedia.org/wiki/Leo_Tolstoy][Leo Tolstoy]]
+
++ Some mathematician, I believe, has said that true pleasure lies not in the
+  discovery of truth, but in the search for it.
 
 ** [[https://en.wikipedia.org/wiki/Leonhard_Euler][Leonhard Euler]]
 
