@@ -132,6 +132,9 @@
   education to appreciate it. And to make matters worse: complexity sells
   better.
 
++ The art of programming is the art of organizaing complexity, of mastering
+  multitude and avoiding its bastard chaos.
+
 ** [[https://en.wikipedia.org/wiki/Enrico_Bombieri][Enrico Bombieri]]
 
 + When things get too complicated, it sometimes makes sense to stop and wonder:
