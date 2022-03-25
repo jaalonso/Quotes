@@ -7,6 +7,9 @@
 
 ** [[https://en.wikipedia.org/wiki/Alan_Perlis][Alan J. Perlis]]
 
++ A good programming language is a conceptual universe for thinking about
+  programming.
+
 + A language that doesn't affect the way you think about programming is not
   worth knowing.
 
