@@ -21,6 +21,9 @@
 
 + It is easier to write an incorrect program than understand a correct one.
 
++ You think you know when you learn, are more sure when you can write, even more
+  when you can teach, but certain when you can program.
+
 ** [[https://en.wikipedia.org/wiki/Alan_Turing][Alan Turing]]
 
 + Codes are a puzzle. A game, just like any other game.
