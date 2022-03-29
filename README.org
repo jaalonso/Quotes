@@ -123,6 +123,11 @@
   about efficiency in the wrong places and at the wrong times; premature
   optimization is the root of all evil (or at least most of it) in programming.
 
+** [[https://en.wikipedia.org/wiki/Douglas_W._Jones][Douglas Jones]]
+
++ The fastest algorithm can frequently be replaced by one that is almost as fast
+  and much easier to understand.
+
 ** [[https://en.wikipedia.org/wiki/Edsger_W._Dijkstra][Edsger W. Dijkstra]]
 
 + A programming language is a tool that has a profound influence on our thinking
