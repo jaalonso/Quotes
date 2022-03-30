@@ -187,29 +187,10 @@
   never to be satisfied that there was not something imperfect about it until
   it also gives the impression of being beautiful.
 
-** [[https://en.wikipedia.org/wiki/George_P%C3%B3lya][George Pólya]]
+** George Carrette
 
-+ It is better to solve one problem five different ways, than to solve five
-  problems one way.
-
-+ Mathematics has two faces: it is the rigorous science of Euclid, but it is
-  also something else. Mathematics presented in the Euclidean way appears as a
-  systematic, deductive science; but mathematics in the making appears as an
-  experimental, inductive science. Both aspects are as old as the science of
-  mathematics itself.
-
-+ Solving problems is a practical skill like, let us say, swimming. We acquire
-  any practical skill by imitation and practice. Trying to swim, you imitate
-  what other people do with their hands and feet to keep their heads above
-  water, and, finally, you learn to swim by practicing swimming. Trying to
-  solve problems, you have to observe and to imitate what other people do when
-  solving problems, and, finally, you learn to do problems by doing them.
-
-+ To teach effectively a teacher must develop a feeling for his subject; he
-  cannot make his students sense its vitality if he does not sense it
-  himself. He cannot share his enthusiasm when he has no enthusiasm to
-  share. How he makes his point may be as important as the point he makes; he
-  must personally feel it to be important.
++ First learn computer science and all the theory. Next develop a programming
+  style. Then forget all that and just hack.
 
 ** [[https://en.wikipedia.org/wiki/G._H._Hardy][G. H. Hardy]]
 
