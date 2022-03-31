@@ -115,6 +115,11 @@
 + The best theory is inspired by practice. The best practice is inspired by
   theory.
 
++ The process of preparing programs for a digital computer is especially
+  attractive, not only because it can be economically and scientifically
+  rewarding, but also because it can be an aesthetic experience much like
+  composing poetry or music.
+
 + The psychological profiling [of a programmer] is mostly the ability to shift
   levels of abstraction, from low level to high level. To see something in the
   small and to see something in the large.
