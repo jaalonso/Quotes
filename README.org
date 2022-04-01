@@ -213,6 +213,9 @@
 + Nothing is more important than to see the sources of invention which are, in
   my opinion more interesting than the inventions themselves.
 
++ The pleasure we obtain from music comes from counting, but counting
+  unconsciously. Music is nothing but unconscious arithmetic.
+
 ** [[https://en.wikipedia.org/wiki/Gottlob_Frege][Gottlob Frege]]
 
 + Every good mathematician is at least half a philosopher, and every good
@@ -221,6 +224,9 @@
 ** [[https://es.wikipedia.org/wiki/Grace_Murray_Hopper][Grace Hopper]]
 
 + The most dangerous phrase of the language is "It has always been done this way".
+
++ To me programming is more than an important practical art. It is also a
+  gigantic undertaking in the foundations of knowledge.
 
 ** [[https://en.wikipedia.org/wiki/Hal_Abelson][Harold Abelson]]
 
