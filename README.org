@@ -197,6 +197,14 @@
 + First learn computer science and all the theory. Next develop a programming
   style. Then forget all that and just hack.
 
+** [[https://en.wikipedia.org/wiki/George_P%C3%B3lya][George Pólya]]
+
++ A great discovery solves a great problem but there is a grain of discovery in
+  the solution of any problem. Your problem may be modest; but if it challenges
+  your curiosity and brings into play your inventive faculties, and if you solve
+  it by your own means, you may experience the tension and enjoy the triumph of
+  discovery.
+
 ** [[https://en.wikipedia.org/wiki/G._H._Hardy][G. H. Hardy]]
 
 + A mathematician, like a painter or poet, is a maker of patterns. If his
@@ -349,6 +357,11 @@
 
 + A theory with mathematical beauty is more likely to be correct than an ugly
   one that fits some experimental data.
+
+** [[https://en.wikipedia.org/wiki/Paul_Graham][Paul Graham]]
+
++ A good programming language should, like oil paint, make it easy to change
+  your mind.
 
 ** [[https://en.wikipedia.org/wiki/Paul_Halmos][Paul Halmos]]
 
