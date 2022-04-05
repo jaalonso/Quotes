@@ -373,6 +373,12 @@
 
 + Programming, in its broadest sense, is problem solving.
 
+** Philip Greenspun
+
++ Greenspun's tenth rule of programming: "Any sufficiently complicated C or
+  Fortran program contains an ad hoc informally-specified bug-ridden slow
+  implementation of half of Common Lisp."
+
 ** [[https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes][René Descartes]]
 
 + Each problem that I solved became a rule which served afterwards to solve
