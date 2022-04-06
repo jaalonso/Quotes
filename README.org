@@ -379,6 +379,9 @@
   Fortran program contains an ad hoc informally-specified bug-ridden slow
   implementation of half of Common Lisp."
 
++ SQL, Lisp, and Haskell are the only programming languages that I've seen where
+  one spends more time thinking than typing.
+
 ** [[https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes][René Descartes]]
 
 + Each problem that I solved became a rule which served afterwards to solve
