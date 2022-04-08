@@ -21,6 +21,8 @@
 
 + It is easier to write an incorrect program than understand a correct one.
 
++ There are two ways to write error-free programs; only the third one works.
+
 + You think you know when you learn, are more sure when you can write, even more
   when you can teach, but certain when you can program.
 
