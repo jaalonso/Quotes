@@ -239,6 +239,10 @@
 
 ** [[https://es.wikipedia.org/wiki/Grace_Murray_Hopper][Grace Hopper]]
 
++ Humans are allergic to change. They love to say, “We’ve always done it this
+  way.” I try to fight that. That’s why I have a clock on my wall that runs
+  counter-clockwise.
+
 + The most dangerous phrase of the language is "It has always been done this way".
 
 + To me programming is more than an important practical art. It is also a
