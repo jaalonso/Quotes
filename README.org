@@ -130,6 +130,8 @@
   about efficiency in the wrong places and at the wrong times; premature
   optimization is the root of all evil (or at least most of it) in programming.
 
++ Trees sprout up just about everywhere in computer science.
+
 ** [[https://en.wikipedia.org/wiki/Douglas_W._Jones][Douglas Jones]]
 
 + The fastest algorithm can frequently be replaced by one that is almost as fast
@@ -312,6 +314,9 @@
 + The development of mathematics towards greater precision has led, as is well
   known, to the formalization of large tracts of it, so that one can prove any
   theorem using nothing but a few mechanical rules.
+
++ The more I think about language, the more it amazes me that people ever
+  understand each other at all.
 
 ** [[https://en.wikipedia.org/wiki/L._Peter_Deutsch][L. Peter Deutsch]]
 
