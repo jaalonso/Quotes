@@ -281,6 +281,11 @@
 + Truth is ever to be found in the simplicity, and not in the multiplicity and
   confusion of things.
 
+** [[https://en.wikipedia.org/wiki/Israel_Nathan_Herstein][Israel Nathan Herstein]]
+
++ The value of a problem is not so much coming up with the answer as in the
+  ideas and attempted ideas it forces on the would be solver.
+
 ** [[https://bit.ly/2vVVv3w][James J Sylvester]]
 
 + It is the constant aim of the mathematician to reduce all his expressions to
