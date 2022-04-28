@@ -431,6 +431,11 @@
 + Predicate logic is a useful and practical, high-level, non-deterministic
   programming language with sound theoretical foundations.
 
+** [[https://en.wikipedia.org/wiki/Seymour_Papert][Seymour Papert]]
+
++ A programming language is like a natural, human language in that it favors
+  certain methaphors, images, and ways of thinking.
+
 ** [[https://en.wikipedia.org/wiki/Stanislaw_Ulam][Stanislaw Ulam]]
 
 + The aesthetic side of mathematics has been of overwhelming importance
