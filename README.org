@@ -49,7 +49,6 @@
   simplifying ideas, the creator must always be one who clarifies, for himself,
   and for others, the most complicated issues of formulas and concepts.
 
-
 ** [[https://en.wikipedia.org/wiki/Bertrand_Meyer][Bertrand Meyer]]
 
 + Correctness is clearly the prime quality. If a system does not do what it is
@@ -71,6 +70,11 @@
 + When I am working on a problem, I never think about beauty. I think only of
   how to solve the problem. But when I have finished, if the solution is not
   beautiful, I know it is wrong.
+
+** [[https://es.wikipedia.org/wiki/Carl_Benjamin_Boyer][Carl B. Boyer]]
+
++ Mathematics is as much an aspect of culture as it is a collection of
+  algorithms.
 
 ** [[https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss][Carl Friedrich Gauss]]
 
