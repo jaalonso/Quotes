@@ -174,6 +174,9 @@
 + Program testing can be used to show the presence of bugs, but never to show
   their absence!
 
++ Programming is one of the most difficult branches of applied mathematics; the
+  poorer mathematicians had better remain pure mathematicians.
+
 + Progress is possible only if we train ourselves to think about programs
   without thinking of them as pieces of executable code.
 
