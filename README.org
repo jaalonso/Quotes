@@ -49,6 +49,12 @@
   simplifying ideas, the creator must always be one who clarifies, for himself,
   and for others, the most complicated issues of formulas and concepts.
 
+** [[https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry][Antoine de Saint-Exupery]]
+
++ If you want to build a ship, don’t drum up people to collect wood and don’t
+  assign them tasks and work, but rather teach them to long for the endless
+  immensity of the sea.
+
 ** [[https://en.wikipedia.org/wiki/Bertrand_Meyer][Bertrand Meyer]]
 
 + Correctness is clearly the prime quality. If a system does not do what it is
