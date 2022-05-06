@@ -264,6 +264,12 @@
 + Every good mathematician is at least half a philosopher, and every good
   philosopher is at least half a mathematician.
 
+** [[https://en.wikipedia.org/wiki/G%C3%B6sta_Mittag-Leffler][Gösta Mittag-Leffler]]
+
++ The mathematician's best work is art, a high perfect art, as daring as the
+  most secret dreams of imagination, clear and limpid. Mathematical genius and
+  artistic genius touch one another.
+
 ** [[https://es.wikipedia.org/wiki/Grace_Murray_Hopper][Grace Hopper]]
 
 + Humans are allergic to change. They love to say, “We’ve always done it this
