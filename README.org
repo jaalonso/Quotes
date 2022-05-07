@@ -345,6 +345,11 @@
 + A mathematician who is not also something of a poet will never be a perfect
   mathematician.
 
+** [[https://en.wikipedia.org/wiki/Kenneth_Appel][Kenneth Appel]]
+
++ Without computers we will be stuck only proving theorems that have short
+  proofs.
+
 ** [[https://en.wikipedia.org/wiki/Kurt_G%C3%B6del][Kurt Gödel]]
 
 + The development of mathematics towards greater precision has led, as is well
