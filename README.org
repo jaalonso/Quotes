@@ -436,6 +436,11 @@
 
 + Programming, in its broadest sense, is problem solving.
 
+** [[https://en.wikipedia.org/wiki/Peter_Hilton][Peter Hilton]]
+
++ Computation involves going from a question to an answer. Mathematics involves
+  going from an answer to a question.
+
 ** Philip Greenspun
 
 + Greenspun's tenth rule of programming: "Any sufficiently complicated C or
