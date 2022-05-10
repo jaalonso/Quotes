@@ -496,6 +496,8 @@
   or processes in the real world, and the decision to concentrate on these
   similarities, and to ignore for the time being the differences.
 
++ Inside every well-written large program is a well-written small program.
+
 + There are two ways of constructing a software design: One way is to make it so
   simple that there are obviously no deficiencies and the other way is to make
   it so complicated that there are no obvious deficiencies.
