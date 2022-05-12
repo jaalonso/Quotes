@@ -43,6 +43,9 @@
 + Computer Science is a science of abstraction — creating the right model for a
   problem and devising the appropriate mechanizable techniques to solve it.
 
++ Mathematics, in its widest significance, is the development of all types of
+  formal, necessary, deductive reasoning.
+
 ** [[https://bit.ly/39mhQEZ][André Weil]]
 
 + In the future, as in the past, the great ideas [of mathematics] must be
