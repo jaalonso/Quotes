@@ -507,6 +507,16 @@
   simple that there are obviously no deficiencies and the other way is to make
   it so complicated that there are no obvious deficiencies.
 
++ Having surveyed the relationships of computer science with other disciplines,
+  it remains to answer the basic questions: What is  central core of the
+  subject? What is it that distinguishes it from  separate subjects with which
+  it is related? What is the linking thread which gathers these disparate
+  branches into a single discipline? My answer to these questions is simple --
+  it is the art of programming a computer. It is the art of designing efficient
+  and elegant methods of getting a computer to solve problems, theoretical or
+  practical, small or large, simple or complex. It is the art of translating
+  this design into an effective and accurate computer program.
+
 ** [[https://es.wikipedia.org/wiki/William_Thurston][William Thurston]]
 
 + Mathematics is not about numbers, equations, computations, or algorithms: it
