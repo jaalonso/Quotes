@@ -198,6 +198,9 @@
 + The art of programming is the art of organizaing complexity, of mastering
   multitude and avoiding its bastard chaos.
 
++ The lurking suspicion that something could be simplified is the world's
+  richest source of rewarding challenges.
+
 ** [[https://en.wikipedia.org/wiki/Enrico_Bombieri][Enrico Bombieri]]
 
 + When things get too complicated, it sometimes makes sense to stop and wonder:
