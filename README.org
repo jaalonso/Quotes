@@ -67,6 +67,9 @@
 
 ** [[https://en.wikipedia.org/wiki/Bertrand_Russell][Bertrand Russell]]
 
++ A good notation has a subtlety and suggestiveness which at times make it
+  almost seem like a live teacher.
+
 + The power of using abstractions is the essence of intellect, and with every
   increase in abstraction the intellectual triumphs of science are enhanced.
 
