@@ -342,6 +342,10 @@
 + The life of a mathematician is dominated by an insatiable curiosity, a desire
   bordering on passion to solve the problems he is studying.
 
+** [[https://en.wikipedia.org/wiki/John_Locke][John Locke]]
+
++ Logic is the anatomy of thought.
+
 ** [[https://wikipedia.org/wiki/John_McCarthy][John McCarthy]]
 
 + It is reasonable to hope that the relationship between computation and
