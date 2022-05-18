@@ -534,3 +534,6 @@
 
 + Mathematics is not about numbers, equations, computations, or algorithms: it
   is about understanding.
+
++ The real satisfaction from mathematics is in learning from others and sharing
+  with others.
