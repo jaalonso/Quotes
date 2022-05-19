@@ -63,6 +63,9 @@
   assign them tasks and work, but rather teach them to long for the endless
   immensity of the sea.
 
++ Perfection is achieved not when there is nothing more to add, but rather when
+  there is nothing more to take away.
+
 ** [[https://en.wikipedia.org/wiki/Bertrand_Meyer][Bertrand Meyer]]
 
 + Correctness is clearly the prime quality. If a system does not do what it is
