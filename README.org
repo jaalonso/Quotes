@@ -204,6 +204,8 @@
   education to appreciate it. And to make matters worse: complexity sells
   better.
 
++ Simplicity is prerequisite for reliability.
+
 + The art of programming is the art of organizaing complexity, of mastering
   multitude and avoiding its bastard chaos.
 
