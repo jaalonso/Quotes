@@ -489,6 +489,10 @@
 
 + The purpose of computing is insight, not numbers.
 
+** [[https://en.wikipedia.org/wiki/Richard_E._Pattis][Richard E. Pattis]]
+
++ When debugging, novices insert corrective code; experts remove defective code.
+
 ** [[https://en.wikipedia.org/wiki/Robert_Harper_(computer_scientist)][Robert Harper]]
 
 + Programming is an explanatory activity, a form of expression intended to
