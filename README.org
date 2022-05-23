@@ -511,9 +511,20 @@
 
 ** [[https://en.wikipedia.org/wiki/Stanislaw_Ulam][Stanislaw Ulam]]
 
++ In many cases, mathematics is an escape from reality. The mathematician finds
+  his own monastic niche and happiness in pursuits that are disconnected from
+  external affairs. Some practice it as if using a drug.
+
 + The aesthetic side of mathematics has been of overwhelming importance
   throughout its growth. It is not so much whether a theorem is useful that
   matters, but how elegant it is.
+
+** [[https://en.wikipedia.org/wiki/Stefan_Banach][Stefan Banach]]
+
++ A mathematician is a person who can find analogies between theorems; a better
+  mathematician is one who can see analogies between proofs and the best
+  mathematician can notice analogies between theories. One can imagine that the
+  ultimate mathematician is one who can see analogies between analogies.
 
 ** [[https://en.wikipedia.org/wiki/Tony_Hoare][Tony Hoare]]
 
