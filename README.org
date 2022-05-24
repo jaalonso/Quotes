@@ -509,6 +509,13 @@
 + A programming language is like a natural, human language in that it favors
   certain methaphors, images, and ways of thinking.
 
++ My basic idea is that programming is the most powerful medium of developing
+  the sophisticated and rigorous thinking needed for mathematics, for grammar,
+  for physics, for statistics, and all the “hard” subjects. Maybe I would even
+  include philosophy and historical analysis. In short, I believe more than ever
+  that programming should be a key part of the intellectual development of
+  people growing up.
+
 ** [[https://en.wikipedia.org/wiki/Stanislaw_Ulam][Stanislaw Ulam]]
 
 + In many cases, mathematics is an escape from reality. The mathematician finds
