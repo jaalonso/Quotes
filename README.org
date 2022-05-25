@@ -535,18 +535,6 @@
 
 ** [[https://en.wikipedia.org/wiki/Tony_Hoare][Tony Hoare]]
 
-+ In the development of our understanding of complex phenomena, the most
-  powerful tool available to the human intellect :is abstraction. Abstraction
-  arises from a recognition of similarities between certain objects, situations,
-  or processes in the real world, and the decision to concentrate on these
-  similarities, and to ignore for the time being the differences.
-
-+ Inside every well-written large program is a well-written small program.
-
-+ There are two ways of constructing a software design: One way is to make it so
-  simple that there are obviously no deficiencies and the other way is to make
-  it so complicated that there are no obvious deficiencies.
-
 + Having surveyed the relationships of computer science with other disciplines,
   it remains to answer the basic questions: What is  central core of the
   subject? What is it that distinguishes it from  separate subjects with which
@@ -556,6 +544,20 @@
   and elegant methods of getting a computer to solve problems, theoretical or
   practical, small or large, simple or complex. It is the art of translating
   this design into an effective and accurate computer program.
+
++ In the development of our understanding of complex phenomena, the most
+  powerful tool available to the human intellect :is abstraction. Abstraction
+  arises from a recognition of similarities between certain objects, situations,
+  or processes in the real world, and the decision to concentrate on these
+  similarities, and to ignore for the time being the differences.
+
++ Inside every well-written large program is a well-written small program.
+
++ The unavoidable price of reliability is simplicity.
+
++ There are two ways of constructing a software design: One way is to make it so
+  simple that there are obviously no deficiencies and the other way is to make
+  it so complicated that there are no obvious deficiencies.
 
 ** [[https://es.wikipedia.org/wiki/William_Thurston][William Thurston]]
 
