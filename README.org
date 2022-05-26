@@ -45,6 +45,10 @@
 
 ** [[https://en.wikipedia.org/wiki/Alfred_North_Whitehead][Alfred North Whitehead]]
 
++ Mathematics as a science, commenced when first someone, probably a Greek,
+  proved propositions about “any” things or about “some” things, without
+  specifications of definite particular things.
+
 + Mathematics, in its widest significance, is the development of all types of
   formal, necessary, deductive reasoning.
 
