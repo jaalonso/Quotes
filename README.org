@@ -115,6 +115,13 @@
 
 + "One should always generalize."
 
+
+** [[https://bit.ly/2UIadEK][Clifford Truesdell]]
+
++ As often happens in the history of science, the simple ideas are the
+  hardest to achieve; simplicity does not come of itself but must be
+  created.
+
 ** [[https://en.wikipedia.org/wiki/David_Gelernter][David Gelernter]]
 
 + Beauty is more important in computing than anywhere else in technology because
