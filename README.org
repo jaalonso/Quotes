@@ -115,7 +115,6 @@
 
 + "One should always generalize."
 
-
 ** [[https://bit.ly/2UIadEK][Clifford Truesdell]]
 
 + As often happens in the history of science, the simple ideas are the
@@ -229,6 +228,11 @@
 + The lurking suspicion that something could be simplified is the world's
   richest source of rewarding challenges.
 
+** [[https://en.wikipedia.org/wiki/Edward_Teller][Edward Teller]]
+
++ Science tries to find logic and simplicity in nature. Mathematics
+  tries to establish order and simplicity in human thought.
+  
 ** [[https://en.wikipedia.org/wiki/Enrico_Bombieri][Enrico Bombieri]]
 
 + When things get too complicated, it sometimes makes sense to stop and wonder:
