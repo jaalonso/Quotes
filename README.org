@@ -250,6 +250,16 @@
   glory and its surest title to practical usefulness. It is also the source of
   such beauty as may spring from mathematics.
 
+** [[https://en.wikipedia.org/wiki/G._H._Hardy][G. H. Hardy]]
+
++ A mathematician, like a painter or poet, is a maker of patterns. If his
+  patterns are more permanent than theirs, it is because they are made with
+  ideas.
+
++ The mathematician's patterns, like the painter's or the poet's must be
+  beautiful; the ideas, like the colors or the words must fit together in a
+  harmonious way. Beauty is the first test: there is no permanent place in this
+  world for ugly mathematics.
 ** [[https://en.wikipedia.org/wiki/Georg_Cantor][Georg Cantor]]
 
 + In mathematics, the art of asking questions is more valuable than solving
@@ -280,16 +290,11 @@
   it by your own means, you may experience the tension and enjoy the triumph of
   discovery.
 
-** [[https://en.wikipedia.org/wiki/G._H._Hardy][G. H. Hardy]]
+** [[https://en.wikipedia.org/wiki/Gian-Carlo_Rota][Gian-Carlo Rota]]
 
-+ A mathematician, like a painter or poet, is a maker of patterns. If his
-  patterns are more permanent than theirs, it is because they are made with
-  ideas.
 
-+ The mathematician's patterns, like the painter's or the poet's must be
-  beautiful; the ideas, like the colors or the words must fit together in a
-  harmonious way. Beauty is the first test: there is no permanent place in this
-  world for ugly mathematics.
++ A good teacher does not teach facts, he or she teaches enthusiasm,
+  open-mindedness and values.
 
 ** [[https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz][Gottfried Wilhelm Leibniz]]
 
