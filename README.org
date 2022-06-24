@@ -1,5 +1,5 @@
 #+TITLE: Quotes on Mathematics and Computer Science
-
+ 
 ** [[https://bit.ly/3Hg30lo][Aaron Swartz]]
 
 + Be curious. Read widely. Try new things. I think a lot of what people call
@@ -291,7 +291,6 @@
   discovery.
 
 ** [[https://en.wikipedia.org/wiki/Gian-Carlo_Rota][Gian-Carlo Rota]]
-
 
 + A good teacher does not teach facts, he or she teaches enthusiasm,
   open-mindedness and values.
